@@ -2,6 +2,7 @@
   "dependencies": {
     "coc-java": ">=1.26.1",
     "coc-rust-analyzer": ">=0.81.2",
-    "coc-python": ">=1.2.13"
+    "coc-python": ">=1.2.13",
+    "coc-pairs": ">=1.5.2"
   }
 }
